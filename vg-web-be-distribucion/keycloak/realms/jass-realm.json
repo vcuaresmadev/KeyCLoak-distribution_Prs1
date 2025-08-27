@@ -1,0 +1,15 @@
+{
+  "realm": "jass",
+  "enabled": true,
+  "clients": [
+    {
+      "clientId": "backend",
+      "protocol": "openid-connect",
+      "publicClient": true,
+      "redirectUris": ["*"]
+    }
+  ]
+}
+
+
+
